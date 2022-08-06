@@ -23,10 +23,10 @@
 
 ### Пример выходных файлов:
 #### colors.jpg
-![colors](https://github.com/ValievINC/KMeans/blob/main/images/colors.jpg)
+![colors](https://github.com/ValievINC/KMeans/blob/main/images/colors_example.jpg)
 
 #### newimage.jpg
-![newimage](https://github.com/ValievINC/KMeans/blob/main/images/newimage.jpg)
+![newimage](https://github.com/ValievINC/KMeans/blob/main/images/newimage_example.jpg)
 
 
 ### Примечания:
